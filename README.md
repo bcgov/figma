@@ -6,13 +6,13 @@ For designers working on custom websites and web applications for the Province o
 
 [Download the latest version ⇩](https://github.com/bcgov/figma/blob/master/versions/bcgov_2020-06-15.fig?raw=true)
 
-### Updates
+## Updates
 
 Watch releases to be notified whenever we release a new version:
 
 ![Watch Releases](https://github.com/bcgov/figma/blob/master/images/watch-releases.png)
 
-### How to Contribute
+## How to Contribute
 
 If you have new patterns/components to contribute that you think should be considered to be made 'official' in the Design System:
 
@@ -23,10 +23,10 @@ For patterns that aren't yet defined in the [Design System](https://developer.go
 
 If your pattern is accepted, we'll add it to the master and release a new version.
 
-### Flag Problems or Request Additions
+## Flag Problems or Request Additions
 
 To notify us about something that's wrong, or request a pattern that's sorely needed, please create an [Issue](https://github.com/bcgov/figma/issues/new/choose). 
 
-### Licence
+## Licence
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
