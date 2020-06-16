@@ -12,7 +12,13 @@ Watch releases to be notified whenever we release a new version:
 
 ![Watch Releases](https://github.com/bcgov/figma/blob/master/images/watch-releases.png)
 
+## What's Next
+
+Look at the [Roadmap](https://github.com/bcgov/figma/projects/1) to see what's prioritized for addition to the template.
+
 ## How to Contribute
+
+If you'd like to pick up some tasks to get this built out faster, please contact Mark.Wilson@gov.bc.ca.
 
 If you have new patterns/components to contribute that you think should be considered to be made 'official' in the Design System:
 
