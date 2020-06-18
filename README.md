@@ -6,8 +6,6 @@ For designers working on custom websites and web applications for the Province o
 
 [Download the latest version ⇩](https://github.com/bcgov/figma/blob/master/versions/bcgov_v2_2020-06-18.fig?raw=true)
 
-[.fig?raw=true)
-
 ## Updates
 
 Watch releases to be notified whenever we release a new version:
