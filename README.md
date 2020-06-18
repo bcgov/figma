@@ -4,7 +4,9 @@
 
 For designers working on custom websites and web applications for the Province of British Columbia, here's a Figma template for creating wireframes and prototypes that aligns to the [Design System](https://developer.gov.bc.ca/Design-System/About-the-Design-System).
 
-[Download the latest version ⇩](https://github.com/bcgov/figma/blob/master/versions/bcgov_2020-06-15.fig?raw=true)
+[Download the latest version ⇩](https://github.com/bcgov/figma/blob/master/versions/bcgov_v2_2020-06-18
+
+[.fig?raw=true)
 
 ## Updates
 
@@ -22,7 +24,7 @@ If you'd like to pick up some tasks to get this built out faster, please contact
 
 If you have new patterns/components to contribute that you think should be considered to be made 'official' in the Design System:
 
-1. Ensure you're building on the [latest version](https://github.com/bcgov/figma/blob/master/versions/bcgov_2020-06-15.fig?raw=true)
+1. Ensure you're building on the [latest version](https://github.com/bcgov/figma/blob/master/versions/bcgov_v2_2020-06-18.fig?raw=true)
 2. Share your Figma file with Mark.Wilson@gov.bc.ca and Inderdeep.Singh@gov.bc.ca and send us an email detailing the new elements you've created.
 
 For patterns that aren't yet defined in the [Design System](https://developer.gov.bc.ca/Design-System/About-the-Design-System), we'll consult with Davis.Levine@gov.bc.ca.
