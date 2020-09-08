@@ -1,3 +1,17 @@
+### Project Status
+
+(Sep 8, 2020) - **Lifecycle: Dormant** 
+
+This project is unlikely to progress because:
+
+- My current work isn't requiring me to create wireframes.
+- Most designers working on B.C. Government applications are not using Figma.
+- A review of wireframing tools conducted by the Government Digital Experience Division recommended against Figma due to some of the terms in its User Agreement.
+- A Privacy Impact Assessment was completed by the Ministry of Health for Adobe XD, making it easier for B.C. Government designers to adopt and get a proper licence for Adobe XD.
+
+I still ❤️ Figma, but will archive this repo for now. If you are interested in resurrecting this work, contact me at: mark.wilson@gov.bc.ca.
+
+
 ![Province of British Columbia](https://github.com/bcgov/figma/blob/master/images/bcgov-logo.jpg) ![figma](https://github.com/bcgov/figma/blob/master/images/figma-logo.png)
 
 # BCGov Figma Template 
