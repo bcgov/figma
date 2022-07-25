@@ -8,7 +8,8 @@ Are you designing a custom website or desktop web application for the Province o
 
 ## Project Status
 
-(Feb 7, 2022) - **Lifecycle: Dormant** 
+[![Lifecycle:Dormant](https://img.shields.io/badge/Lifecycle-Dormant-ff7f2a)](<Redirect-URL>)
+The project is currently not under active development, but there are plans to redevelop.
 
 This project is inactive because B.C. public servants are not currently permitted to use Figma due to privacy concerns with its user agreement. However, the Government Digital Experience (GDX) team is working to find a way to permit its use and we hope this project may become relevant and active again.
 
